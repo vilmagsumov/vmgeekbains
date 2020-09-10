@@ -1,7 +1,7 @@
 #Задание 2 из домашней работы №2
 inp_list = []
 while True:
-    new_elem = input("Введите новое значение: ")
+    new_elem = input("Введите новое значение ( для завершения введите 'stop'): ")
     if new_elem == "stop":
         break
     else:
