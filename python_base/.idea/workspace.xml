@@ -27,7 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Python.task2">
+  <component name="RunManager" selected="Python.task6">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python_base" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -49,48 +49,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_base" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson2/task1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_base" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson2/task2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_base" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,11 +57,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson2/task3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/task3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,11 +78,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson2/task4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/task4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task4_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_base" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/task4_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,11 +120,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson2/task5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/task5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_base" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/task6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task2" />
+        <item itemvalue="Python.task6" />
         <item itemvalue="Python.task5" />
         <item itemvalue="Python.task4" />
+        <item itemvalue="Python.task4_1" />
         <item itemvalue="Python.task3" />
-        <item itemvalue="Python.task1" />
       </list>
     </recent_temporary>
   </component>
@@ -180,26 +180,30 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1121" y="590" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.2560.1400/2560.10.2560.1400@0.0.2560.1400" timestamp="1598274278605" />
-    <state width="2539" height="267" key="GridCell.Tab.0.bottom" timestamp="1599738821197">
+    <state width="2539" height="267" key="GridCell.Tab.0.bottom" timestamp="1600168521627">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="267" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.10.2560.1400@0.0.2560.1400" timestamp="1599738821197" />
+    <state width="2539" height="267" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.10.2560.1400@0.0.2560.1400" timestamp="1600168521627" />
     <state width="2539" height="266" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.10.2560.1400@2560.10.2560.1400" timestamp="1598350265549" />
-    <state width="2539" height="267" key="GridCell.Tab.0.center" timestamp="1599738821196">
+    <state width="2539" height="267" key="GridCell.Tab.0.center" timestamp="1600168521627">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="267" key="GridCell.Tab.0.center/0.0.2560.1400/2560.10.2560.1400@0.0.2560.1400" timestamp="1599738821196" />
+    <state width="2539" height="267" key="GridCell.Tab.0.center/0.0.2560.1400/2560.10.2560.1400@0.0.2560.1400" timestamp="1600168521627" />
     <state width="2539" height="266" key="GridCell.Tab.0.center/0.0.2560.1400/2560.10.2560.1400@2560.10.2560.1400" timestamp="1598350265549" />
-    <state width="2539" height="267" key="GridCell.Tab.0.left" timestamp="1599738821196">
+    <state width="2539" height="267" key="GridCell.Tab.0.left" timestamp="1600168521627">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="267" key="GridCell.Tab.0.left/0.0.2560.1400/2560.10.2560.1400@0.0.2560.1400" timestamp="1599738821196" />
+    <state width="2539" height="267" key="GridCell.Tab.0.left/0.0.2560.1400/2560.10.2560.1400@0.0.2560.1400" timestamp="1600168521627" />
     <state width="2539" height="266" key="GridCell.Tab.0.left/0.0.2560.1400/2560.10.2560.1400@2560.10.2560.1400" timestamp="1598350265549" />
-    <state width="2539" height="267" key="GridCell.Tab.0.right" timestamp="1599738821196">
+    <state width="2539" height="267" key="GridCell.Tab.0.right" timestamp="1600168521627">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="267" key="GridCell.Tab.0.right/0.0.2560.1400/2560.10.2560.1400@0.0.2560.1400" timestamp="1599738821196" />
+    <state width="2539" height="267" key="GridCell.Tab.0.right/0.0.2560.1400/2560.10.2560.1400@0.0.2560.1400" timestamp="1600168521627" />
     <state width="2539" height="266" key="GridCell.Tab.0.right/0.0.2560.1400/2560.10.2560.1400@2560.10.2560.1400" timestamp="1598350265549" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1600165290526">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.10.2560.1400@0.0.2560.1400" timestamp="1600165290526" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
