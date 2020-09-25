@@ -1,0 +1,3 @@
+IT: 100 (l) - 50 (practic) 20 (lab)
+Physics: 30 (l) - 10 (practic)
+Math: 50 (l) 70 (lab)
