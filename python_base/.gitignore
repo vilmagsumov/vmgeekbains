@@ -1,2 +1,5 @@
 # Archieve
 *.rar
+
+#temp files
+./tmp
